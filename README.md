@@ -10,7 +10,7 @@ This script will:
 - Start the server imidenetly after previous worlds are gone
 - Start the server when crash (and remove all existing worlds)
 
-/Script works on Debian
+/Script works on Debian <br/>
 /To stop script press **CTRL+C twice** or kill the screen in which its running **screen -X -S ID/screen_name quit**
 
 Special thanks to M.O.S.S. team.
