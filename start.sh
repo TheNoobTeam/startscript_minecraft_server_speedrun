@@ -11,7 +11,7 @@ do
    echo worlds removed.
    echo starting Minecraft server.
 
-#Here you can change your minimum and maximum.(replacing the jar name by whatever you named the jar file).
+#Here you can assign your minimum and maximum memory.(replacing the jar name by whatever you named the jar file).
    java -Xms1G -Xmx3G -jar Minecraft.jar
    
    sleep 10
